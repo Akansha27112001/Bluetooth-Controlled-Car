@@ -16,7 +16,8 @@ A mobile-controlled car developed using Arduino Uno and HC-05 Bluetooth module. 
 - Wireless Bluetooth communication
 
 ## 📷 Circuit Diagram
-(Insert your diagram or image link here)
+![Figure-Circuit-diagram-for-Bluetooth-control-car](https://github.com/user-attachments/assets/250d1dd0-6b05-4b7a-a6c7-b40608b31632)
+
 
 ## 🚀 Future Enhancements
 - Add obstacle detection using ultrasonic sensor
